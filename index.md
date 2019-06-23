@@ -1,5 +1,6 @@
 ---
 layout: home
+image: banner_01.jpg
 ---
 
 <style>
