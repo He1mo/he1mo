@@ -17,7 +17,7 @@ lang: zh-CN
 title: He1mo's jekyll at Gitee
 email:
 description: 黄志锐架设的jekyll网站，用于网页设计与制作课程期末项目
-baseurl: "/jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
+baseurl: "/he1mo"# the optional subpath of your site, e.g. "/blog"
 url: "https://he1mo.gitee.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: “黄志锐”
