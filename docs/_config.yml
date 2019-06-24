@@ -12,7 +12,7 @@ lang: en-US
 title: Basically Basic
 email: dugan.nash@mailinator.com
 description: "Your new default Jekyll theme"
-baseurl: "/he1mo"
+baseurl: "/jekyll-theme-basically-basic"
 url: "https://mmistakes.github.io"
 repository: "mmistakes/minimal-mistakes"
 author:
