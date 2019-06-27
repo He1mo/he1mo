@@ -9,14 +9,18 @@ categories:
 <head>
 <style type="text/css">
 div.racing {
-animation: dragracing 3s infinite;
+animation: racing 3s infinite;
 align-item:center;
 }
-@keyframes racing {
-0% { transform:rotate(0deg);transform-origin:50% 50%;}
-50% { transform:rotate(30deg);transform-origin:50% 50%;}
-75% { transform : rotate(-60deg);transform-origin:50% 50%;}
-100%{transform:scaleX(1.5);
+@keyframes dragracing{
+	0% { 
+	transform:rotate(0deg);transform-origin:50% 50%;}
+	50% { 
+	transform:rotate(30deg);transform-origin:50% 50%;}
+	75%{
+	transform : rotate(-60deg);transform-origin:50% 50%;}
+	100%{
+transform:scaleX(1.5); 
 transform:translateX(1000px)}
 } 
 </style>
