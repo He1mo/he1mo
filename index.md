@@ -1,6 +1,6 @@
 ---
 layout: home
-image: assets/images/banner_01.png
+image: homebanner.png
 ---
 
 <style>
