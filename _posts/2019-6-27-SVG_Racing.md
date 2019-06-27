@@ -12,7 +12,7 @@ div.racing {
 animation: racing 3s infinite;
 align-item:center;
 }
-@keyframes dragracing{
+@keyframes racing{
 	0% { 
 	transform:rotate(0deg);transform-origin:50% 50%;}
 	50% { 
