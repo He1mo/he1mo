@@ -6,7 +6,7 @@ categories:
 ---
 
 ### 接受男子漢的愛吧
-![jpg](/he1mo/assets/images/Love.png)
+![jpg](/he1mo/assets/images/love.png)
 <html>
 	<head>
 	<style type="text/css">
