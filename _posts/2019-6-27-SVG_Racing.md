@@ -39,9 +39,11 @@ div.love_p{
 	animation: spin 2s 1s;
 	infinite;
 	transform-origin: 50% 50%;
+	animation-iteration-count:100
 	}
 div.love_r{animation: scale 2s 1s;
 	transform-origin: 40% 40%;
+	animation-iteration-count:100
 	}
 div.love{
 	display:flex;
