@@ -1,38 +1,113 @@
 ---
 layout: page
-title: 直线竞速轮椅！
+title: 简单动画-接受男子漢的愛吧！
 categories:
      - SVG制作
 ---
 
+### 接受男子漢的愛吧
+![jpg](/jekyll-theme-basically-basic/assets/images/Love.png)
 <html>
-<head>
-<style type="text/css">
-div.racing {
-animation: racing 3s infinite;
-align-item:center;
-}
-@keyframes racing{
-	0% { 
-	transform:rotate(0deg);transform-origin:50% 50%;}
-	50% { 
-	transform:rotate(30deg);transform-origin:50% 50%;}
-	75%{
-	transform : rotate(-60deg);transform-origin:50% 50%;}
+	<head>
+	<style type="text/css">
+@keyframes spin{
+	0% {
+		transform:rotate(0deg);
+	}
+	50 {
+		transform:rotate(180deg);
+	}
 	100%{
-transform:scaleX(1.5); 
-transform:translateX(1000px)}
-} 
+		transform:rotate(360deg);
+			}
+}
+@keyframes scale {  
+            0%{
+                transform: scale(1); 
+            }
+            25%{
+                transform: scale(1.2);
+            }
+            50%{
+                transform: scale(1.6);
+            }
+            75%{
+                transform: scale(0);
+            }
+        }
+div.love_p{
+	animation: spin 2s 1s;
+	infinite;
+	transform-origin: 50% 50%;
+	}
+div.love_r{animation: scale 2s 1s;
+	transform-origin: 40% 40%;
+	}
+div.love{
+	display:flex;
+}
 </style>
+	
 </head>
-<body>
-<article>
-<div class="racing"
-<svg aria-hidden="true" width="15%" focusable="false" data-prefix="fab" data-icon="angellist" class="svg-inline--fa fa-angellist fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 -50 550 600">
-<path fill="black" d="M423.9 255.8L411 413.1c-3.3 40.7-63.9 35.1-60.6-4.9l10-122.5-41.1 2.3c10.1 20.7 15.8 43.9 15.8 68.5 0 41.2-16.1 78.7-42.3 106.5l-39.3-39.3c57.9-63.7 13.1-167.2-74-167.2-25.9 0-49.5 9.9-67.2 26L73 243.2c22-20.7 50.1-35.1 81.4-40.2l75.3-85.7-42.6-24.8-51.6 46c-30 26.8-70.6-18.5-40.5-45.4l68-60.7c9.8-8.8 24.1-10.2 35.5-3.6 0 0 139.3 80.9 139.5 81.1 16.2 10.1 20.7 36 6.1 52.6L285.7 229l106.1-5.9c18.5-1.1 33.6 14.4 32.1 32.7zm-64.9-154c28.1 0 50.9-22.8 50.9-50.9C409.9 22.8 387.1 0 359 0c-28.1 0-50.9 22.8-50.9 50.9 0 28.1 22.8 50.9 50.9 50.9zM179.6 456.5c-80.6 0-127.4-90.6-82.7-156.1l-39.7-39.7C36.4 287 24 320.3 24 356.4c0 130.7 150.7 201.4 251.4 122.5l-39.7-39.7c-16 10.9-35.3 17.3-56.1 17.3z"></path>
-</path>
-</div>
-</article>
-<body>
+	
+<body> <div class="love"><article>
+	<div class="love_p">
+	<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fefaec" id="canvas_background" height="10" width="10" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>love</title>
+  <path transform="rotate(-11.113571166992188 312.91229248046886,157.94279479980474) " id="svg_1" d="M250.624454016887,152.43046118526337 C280.9281549220593,76.82721510343657 399.6590486324842,152.43046118526337 250.624454016887,249.63463471904166 C101.58985940129023,152.43046118526337 220.32075311171457,76.82721510343657 250.624454016887,152.43046118526337 z" stroke-width="1.5" fill="rgb(237, 182, 220)"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_2" y2="234.4375" x2="136.5" y1="280.4375" x1="74.5" stroke-width="1.5" fill="none"/>
+  <path d="m97.5,266.4375c-1,-1 -0.813995,-2.692535 1,-4c3.441811,-2.480713 5,-4 8,-7c1,-1 3,-3 4,-5c1,-2 2,-2 3,-1c2,2 4.54863,4.769928 6,9c1.654816,4.823029 2.565033,10.830994 5,20c1.308754,4.928192 2,10 2,14c0,3 0,7 0,13c0,5 0,11 0,15c0,3 1.770248,6.026764 2,7c0.513748,2.176239 2.485062,3.70575 5,5c5.4086,2.783356 13.160507,2.37851 19,1c4.352509,-1.027496 6,-5 7,-6l0,-1" id="svg_3" stroke-width="1.5" fill="none"/>
+  <path id="svg_8" d="m147.5,253.4375" opacity="0.5" stroke-width="1.5" stroke="#AF84A3" fill="#AF84A3"/>
+ </g>
+</svg>
+	</div> </article>
+	<article>
+		<div class="love_r">
+		<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300">
+	 <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+	 <g>
+	  <title>background</title>
+	  <rect fill="#fefaec" id="canvas_background" height="10" width="10" y="-1" x="-1"/>
+	  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+	   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+	  </g>
+	 </g>
+	 <g>
+	  <title>Layer</title>
+	  <path transform="rotate(-11.113571166992188 312.91229248046886,157.94279479980474) " id="svg_1" d="M250.624454016887,152.43046118526337 C280.9281549220593,76.82721510343657 399.6590486324842,152.43046118526337 250.624454016887,249.63463471904166 C101.58985940129023,152.43046118526337 220.32075311171457,76.82721510343657 250.624454016887,152.43046118526337 z" stroke-width="1.5" fill="red"/>
+	  <line stroke-linecap="null" stroke-linejoin="null" id="svg_2" y2="234.4375" x2="136.5" y1="280.4375" x1="74.5" stroke-width="1.5" fill="none"/>
+	  <path d="m97.5,266.4375c-1,-1 -0.813995,-2.692535 1,-4c3.441811,-2.480713 5,-4 8,-7c1,-1 3,-3 4,-5c1,-2 2,-2 3,-1c2,2 4.54863,4.769928 6,9c1.654816,4.823029 2.565033,10.830994 5,20c1.308754,4.928192 2,10 2,14c0,3 0,7 0,13c0,5 0,11 0,15c0,3 1.770248,6.026764 2,7c0.513748,2.176239 2.485062,3.70575 5,5c5.4086,2.783356 13.160507,2.37851 19,1c4.352509,-1.027496 6,-5 7,-6l0,-1" id="svg_3" stroke-width="1.5" fill="none"/>
+	  <path id="svg_8" d="m147.5,253.4375" opacity="0.5" stroke-width="1.5" stroke="#AF84A3" fill="#AF84A3"/>
+	 </g>
+	</svg>
+		</div> </article></div>
+</body>
+</html>
 
-### 直线竞速轮椅
+***
+
+  ### 简单的SVG动画制作
+SVG[制作工具][6]：
+![jpg](/jekyll-theme-basically-basic/assets/images/svgeditor.png)
+
+> 画出满意的SVG图形，然后在Chrome右击检查找到该SVG图形的代码复制下来就可以了
+然后放在html代码里（注意在.md文件中，HTML格式显得尤为重要，否则就会显示错误）
+
+    <g>
+      <title>love</title>
+      <path transform="rotate(-11.113571166992188 312.91229248046886,157.94279479980474) " id="svg_1" d="M250.624454016887,152.43046118526337 C280.9281549220593,76.82721510343657 399.6590486324842,152.43046118526337 250.624454016887,249.63463471904166 C101.58985940129023,152.43046118526337 220.32075311171457,76.82721510343657 250.624454016887,152.43046118526337 z" stroke-width="1.5" fill="rgb(237, 182, 220)"/>
+      <line stroke-linecap="null" stroke-linejoin="null" id="svg_2" y2="234.4375" x2="136.5" y1="280.4375" x1="74.5" stroke-width="1.5" fill="none"/>
+      <path d="m97.5,266.4375c-1,-1 -0.813995,-2.692535 1,-4c3.441811,-2.480713 5,-4 8,-7c1,-1 3,-3 4,-5c1,-2 2,-2 3,-1c2,2 4.54863,4.769928 6,9c1.654816,4.823029 2.565033,10.830994 5,20c1.308754,4.928192 2,10 2,14c0,3 0,7 0,13c0,5 0,11 0,15c0,3 1.770248,6.026764 2,7c0.513748,2.176239 2.485062,3.70575 5,5c5.4086,2.783356 13.160507,2.37851 19,1c4.352509,-1.027496 6,-5 7,-6l0,-1" id="svg_3" stroke-width="1.5" fill="none"/>
+      <path id="svg_8" d="m147.5,253.4375" opacity="0.5" stroke-width="1.5" stroke="#AF84A3" fill="#AF84A3"/>
+     </g>
+
+  [6]: https://c.runoob.com/more/svgeditor/
