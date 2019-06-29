@@ -6,7 +6,7 @@ categories:
 ---
 
 ### 接受男子漢的愛吧
-![jpg](/jekyll-theme-basically-basic/assets/images/Love.png)
+![jpg](/he1mo/assets/images/Love.png)
 <html>
 	<head>
 	<style type="text/css">
@@ -97,7 +97,7 @@ div.love{
 
   ### 简单的SVG动画制作
 SVG[制作工具][6]：
-![jpg](/jekyll-theme-basically-basic/assets/images/svgeditor.png)
+![jpg](/he1mo/assets/images/svgeditor.png)
 
 > 画出满意的SVG图形，然后在Chrome右击检查找到该SVG图形的代码复制下来就可以了
 然后放在html代码里（注意在.md文件中，HTML格式显得尤为重要，否则就会显示错误）

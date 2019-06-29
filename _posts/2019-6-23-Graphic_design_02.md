@@ -9,7 +9,7 @@ categories:
 
 ***
 
-![jpg](/jekyll-theme-basically-basic/assets/images/GutenbergZ.png)
+![jpg](/he1mo/assets/images/GutenbergZ.png)
 
 ***
 
@@ -23,7 +23,7 @@ categories:
 
 ***
 
-![jpg](/jekyll-theme-basically-basic/assets/images/English.png)
+![jpg](/he1mo/assets/images/English.png)
 
 ***
 
