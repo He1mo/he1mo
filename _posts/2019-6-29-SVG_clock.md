@@ -5,10 +5,7 @@ categories:
      - SVG制作
 ---
 
-***
-
 ### 不仅仅只是循环
-
 <html>
 <div class="circle">
      <article>
@@ -22,8 +19,9 @@ categories:
 </html>
 
 ***
->小球球的路径跟踪
 
-## animateMotion标签
+### 小球球的路径跟踪制作
 
-> animateMotion标签是针对目标SVG图像的边框路径跟踪，即便有中断的线段也会跟踪
+> animateMotion标签
+animateMotion标签是针对目标SVG图像的边框路径跟踪，即便有中断的线段也会跟踪
+
