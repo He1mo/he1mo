@@ -24,6 +24,7 @@ categories:
 </body>
 </html>
 
+
 ## 源代码
     <body>
       <svg width="540" height="540" viewbox="0 0 440 440" xmlns="http://www.w3.org/2000/svg">
@@ -34,6 +35,8 @@ categories:
     </svg>
     </body>
 
+>小球球的路径跟踪
+
 ## 采用的是animateMotion标签
 
-* animateMotion标签是针对目标SVG图像的边框路径跟踪，即便有中断的线段也会跟踪
+> animateMotion标签是针对目标SVG图像的边框路径跟踪，即便有中断的线段也会跟踪
