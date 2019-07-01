@@ -4,6 +4,10 @@ title: 简单动画-循环中的循环！
 categories:
      - SVG制作
 ---
+### 小球球的路径跟踪制作
+
+> animateMotion标签
+animateMotion标签是针对目标SVG图像的边框路径跟踪，即便有中断的线段也会跟踪
 
 ### 不仅仅只是循环
 <html>
@@ -20,8 +24,4 @@ categories:
 
 ***
 
-### 小球球的路径跟踪制作
-
-> animateMotion标签
-animateMotion标签是针对目标SVG图像的边框路径跟踪，即便有中断的线段也会跟踪
 
