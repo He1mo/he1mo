@@ -8,12 +8,7 @@ categories:
 ### 不仅仅只是循环
 
 <html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
-</head>
+
 <body><div class="circle">
 <article>
   <svg width="540" height="540" viewbox="0 0 440 440" xmlns="http://www.w3.org/2000/svg">
@@ -38,6 +33,6 @@ categories:
 
 >小球球的路径跟踪
 
-## 采用的是animateMotion标签
+## animateMotion标签
 
 > animateMotion标签是针对目标SVG图像的边框路径跟踪，即便有中断的线段也会跟踪
