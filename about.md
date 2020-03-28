@@ -11,7 +11,7 @@ image: assets/images/banner_me.png
 ***
 
 1.电子竞技爱好者
-> 非知名CSGO俱乐部战队-Dk Rise现任教练兼指挥
+> 非知名CSGO俱乐部战队-Dk Rise 战队成员教练
 
 <img src="/he1mo/assets/images/DkRise.jpg"  height="300" width="230">
 
