@@ -1,6 +1,8 @@
 ---
 layout: page
-title: [第二周] 设计流程：DesginThinking
+title: 设计流程：DesginThinking
 categories:
-     - 产品经理能力培养
+     - 产品经理
 ---
+
+先占坑试试能不能显示文章
