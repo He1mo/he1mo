@@ -8,6 +8,9 @@ categories:
 
 产品感："感"体验 "通"需求
 
+---
+
+
 ## "感"体验
 **用户体验 UX** 
 User Experience and Experience Design
@@ -27,6 +30,8 @@ Desgin 为某目标而将某事物、数据等做安排
 
 产品经理需求：UX+PRD  
 UI交互设计：以UX为主 
+
+---
 
 ### 以人为本的设计：用户代言人
 User-Centered Desgin;Huamn-Centered Desgin
@@ -48,6 +53,9 @@ User-Centered Desgin;Huamn-Centered Desgin
  
  
 **总结：用户代言人是 和科技与商业的专业人士沟通用户问题和痛点，从科技生态和商业生态中找到解决方案**
+
+---
+
 
 ### "以人为本的设计？来自interaction-desgin.org 专家经验的分享 
 
