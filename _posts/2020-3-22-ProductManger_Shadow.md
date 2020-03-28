@@ -2,7 +2,7 @@
 layout: page
 title: [第一周] 产品经理初印象
 categories:
-     -产品经理能力培养
+     - 产品经理能力培养
 ---
 
 产品经理 Product Manger
