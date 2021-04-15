@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 构建低碳经济(Low-Carbon Economy(LCE))新体系
+title: 构建低碳经济？
 categories:
-     - 实践社群与自我策展
+     - 学习笔记
 ---
-
-分类《实践社群与自我策展》下的文章：
 
 
 ## 构建低碳经济(Low-Carbon Economy(LCE))新体系
