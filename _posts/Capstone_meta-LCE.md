@@ -2,7 +2,7 @@
 layout: page
 title: 构建低碳经济？
 categories:
-     -学习笔记
+     - 实践社群与自我策展
 ---
 
 
