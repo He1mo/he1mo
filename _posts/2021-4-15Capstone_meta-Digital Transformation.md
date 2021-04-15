@@ -25,5 +25,6 @@ categories:
 #### 参考链接
 [数字化转型MBA百科](https://wiki.mbalib.com/wiki/%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B)   
 [实现亚洲市场增长之梦 | Accenture ](https://www.accenture.com/_acnmedia/Accenture/Conversion-Assets/DotCom/Documents/Local/zh-cn/PDF_5/Accenture-Strategy-Digital-Living-Growth-Dream-Asia.pdf#zoom=50)    
-[2020年度中国数字营销公司排行榜](https://baijiahao.baidu.com/s?id=1659740437055629329&wfr=spider&for=pc)
+[2020年度中国数字营销公司排行榜](https://baijiahao.baidu.com/s?id=1659740437055629329&wfr=spider&for=pc)  
+[埃森哲X工信安全《2020中国企业数字转型指数研究》](https://www.sohu.com/a/426513225_120113052)
 
