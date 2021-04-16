@@ -27,5 +27,6 @@ categories:
 [数据驱动MBA百科](https://wiki.mbalib.com/wiki/%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8
 )  
 [2020年中国新白领消费行为研究报告](http://report.iresearch.cn/report/202011/3680.shtml)  
-[2020年中国数据驱动型企业成长路径研究报告](https://blog.csdn.net/m0_37586850/article/details/107421535)
+[2020年中国数据驱动型企业成长路径研究报告](https://blog.csdn.net/m0_37586850/article/details/107421535)   
+[案例研究——网易云音乐](https://gitee.com/pingtaijingjixiaozu/netease-cloud-music-case-study#b-1%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%90%86%E8%AE%BA)
 
