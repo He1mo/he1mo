@@ -1,6 +1,6 @@
 ---
 layout: page
-title: test甲方乙方的来源是什么？
+title: 甲方乙方的来源是什么？
 categories:
      - 实践社群与自我策展
 ---
