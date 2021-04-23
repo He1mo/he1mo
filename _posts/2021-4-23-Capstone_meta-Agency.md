@@ -5,7 +5,11 @@ categories:
      - 实践社群与自我策展
 ---
 
-甲方乙方的中间人：Agency。包括了 **咨询公司丶传统创意代理公司 (creative agency) 、媒介代理公司 (media agency)** ，本文将探讨三种agency组织的业务的界线及人才需求。  
+
+　
+
+
+    甲方乙方的中间人：Agency。包括了 **咨询公司丶传统创意代理公司 (creative agency) 、媒介代理公司 (media agency)** ，本文将探讨三种agency组织的业务的界线及人才需求。  
 
 
 ### 1. 咨询公司(Consulting Agency)
