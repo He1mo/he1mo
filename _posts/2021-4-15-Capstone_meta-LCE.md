@@ -4,13 +4,6 @@ title: 构建低碳经济(Low-Carbon Economy(LCE))新体系
 categories:
      - 实践社群与自我策展
 ---
-实践社群与自我策展 Capstone_meta
-
-构建低碳经济(Low-Carbon Economy(LCE))新体系
-
----
-
-
 
 ## 构建低碳经济(Low-Carbon Economy(LCE))新体系
 低碳经济新体系不同于当下的石化能源为基础的传统经济体系, 低碳经济体系则通过技术创新、制度创新、产业转型、新能源开发等多种形式所形成未来低碳经济(Low-Carbon Economy(LCE))新体系。
