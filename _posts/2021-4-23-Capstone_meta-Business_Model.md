@@ -34,8 +34,7 @@ categories:
 >下图为本人依据目前的个人陈述内容进行编辑的商业模式画布，提供一个例子参考，让大家更好的理解商业模式画布个版是如何帮住你规划个人职业生涯的。（画布参考[【商业模式新生代-个人篇】](https://www.baidu.com/link?url=dHogGinKekMnCHx2fvW7uTN80SvO5fLolTk-4Z0CDiLNPwE9b7JemmvCJEUgW6QYsImJHXBNGsHo0j3zCX8CCa&wd=&eqid=9869610d00039bd7000000066082b71e)）
 
   
-![商业模式画布个人版](https://upload-images.jianshu.io/upload_images/23114927-b03752f79c1345e1.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp "204257_ea088e02_4864777.png")
-
+![个人商业画布](https://images.gitee.com/uploads/images/2021/0424/165813_1ba061ac_4864777.png "204257_ea088e02_4864777.png")
 
 
 参考链接：  
