@@ -21,8 +21,9 @@ categories:
 ---
 
 ### “十四五”时期经济社会主题
-以推动高质量发展为主题，为此必须落实速度换挡、动力转换、创新体制等关键问题，而数字经济正是推动供给侧结构性改革和经济发展质量变革、效率变革、动力变革的重要力量
-https://mmbiz.qpic.cn/mmbiz_png/ljT2Dmxwr8xG5bkgZzzHuPaQmYhE6qrGDz5cFGw2HOIIXgpJjH2j86iceEkxEARib57XCy3eSkHcOibGGzHchOGRg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
+以推动高质量发展为主题，为此必须落实速度换挡、动力转换、创新体制等关键问题，而数字经济正是推动供给侧结构性改革和经济发展质量变革、效率变革、动力变革的重要力量  
+
+![国家数字竞争力](https://images.gitee.com/uploads/images/2021/0516/173038_55810b2e_4864777.png "国家数字竞争力.png")
 
 ### 新发展格局下数字经济创新的核心基础设施:云计算
 云计算是驱动各行各业数字化转型升级和塑造未来经济形态的智能引擎，对于解决我国发展不平衡不充分问题、培育完整内需体系、增强产业链供应链自主可控性和实现经济高质量发展均具有战略价值。
