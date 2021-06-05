@@ -1,8 +1,9 @@
 ---
-layout page
-title 旅游行业对应景点营销部门人员痛点初步观察分析
-categories
+layout: page
+title: 旅游行业对应景点营销部门人员痛点初步观察分析
+categories:
      - 实践社群与自我策展
+
 ---
 
  ## 旅游行业对应景点营销部门人员痛点**初步观察分析**

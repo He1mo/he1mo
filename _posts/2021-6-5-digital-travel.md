@@ -1,11 +1,11 @@
 ---
-layout page
-title 数字化赋能旅游业
-categories
+layout: page
+title: 数字化赋能旅游业
+categories:
      - 实践社群与自我策展
+
 ---
-数字化赋能旅游业
----
+
 ## **数字化赋能旅游业MRD**
 
 ### 一、产品方向
