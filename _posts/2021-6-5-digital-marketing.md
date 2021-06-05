@@ -1,6 +1,6 @@
 ---
 layout page
-title 数字化绿色经济
+title 旅游行业对应景点营销部门人员痛点初步观察分析
 categories
      - 实践社群与自我策展
 
