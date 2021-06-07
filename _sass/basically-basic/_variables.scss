@@ -43,6 +43,7 @@ $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Base font family */
 $base-font-family: "Fira Sans", sans-serif !default;
+$global-font-family: $serif !default;
 /* Other font families */
 $headline-font-family: $base-font-family !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
@@ -103,5 +104,5 @@ $navicon-nav-bg-open: transparent !default;
 $navicon-content-bg: $text-color !default;
 
 /* Site image */
-$site-image-width: 50px !default;
-$site-image-height: 50px !default;
+$site-image-width: 150px !default;
+$site-image-height: 150px !default;
